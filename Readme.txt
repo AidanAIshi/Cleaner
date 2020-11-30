@@ -1,0 +1,1 @@
+Start the file cleaner.bat with the admin permission and it clean the TEMP and useless files
